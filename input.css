@@ -39,3 +39,12 @@ h1 {
 Nav {
     @apply font-handwrite
 }
+
+.list li {
+    @apply leading-snug p-2 font-light;
+}
+
+.list strong {
+    @apply font-semibold text-myblue
+    font-handwrite
+}
